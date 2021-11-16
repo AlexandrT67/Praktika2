@@ -1,0 +1,40 @@
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    color: black;
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+}
+.top-footer
+{
+    background-color: rgb(142, 235, 114);
+    height: 80px;
+    padding-top: 20px;
+}
+.centr
+{
+    display: flex;
+    flex-direction: row;
+}
+.left
+{
+    background-color: rgb(243, 243, 81);
+    width: 20%;
+    height: 300px;
+}
+.statia
+{
+    width: 60%;
+    height: 300px;
+}
+.rayt
+{
+    background-color: rgb(243, 243, 81);
+    width: 20%;
+    height: 300px;
+}
